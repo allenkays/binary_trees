@@ -1,3 +1,5 @@
+#include "binary_trees.h"
+
 /**
  * binary_tree_preorder - goes through a tree in preorder mode
  * @tree: tree to traverse
